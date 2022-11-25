@@ -477,4 +477,7 @@ footer{
     input[type="submit"]{
         height: 20px;
     }
+    body{
+        width: 100%;
+    }
 }
